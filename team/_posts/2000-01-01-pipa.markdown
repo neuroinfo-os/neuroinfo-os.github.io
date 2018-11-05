@@ -1,0 +1,12 @@
+---
+name: Prof. Dr. Gordon Pipa
+department: Neuroinformatics
+layout: default
+img: pipa
+social:
+    - title: twitter
+      url: https://twitter.com/pipagordon
+    - title: homepage
+      url: https://www.ikw.uni-osnabrueck.de/en/research_groups/neuroinformatics/overview.html
+
+---
