@@ -1,12 +1,15 @@
 ---
 name: Prof. Dr. Gordon Pipa
+modal-id: Pipa
 department: Neuroinformatics
 layout: default
 img: pipa
+thumbnail: pipa-thumbnail
 social:
     - title: twitter
       url: https://twitter.com/pipagordon
-    - title: homepage
+    - title: home
       url: https://www.ikw.uni-osnabrueck.de/en/research_groups/neuroinformatics/overview.html
-
 ---
+
+Here is where the description including some links to references go!
