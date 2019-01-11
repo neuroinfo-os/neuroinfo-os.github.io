@@ -1,8 +1,7 @@
 ---
 name: Prof. Dr. Peter König
-modal-id: Pipa
+modal-id: Koenig
 department: Neurobiopsychology
-layout: default
 img: koenig
 thumbnail: koenig-thumbnail
 social:
