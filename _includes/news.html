@@ -10,18 +10,19 @@
                 </div>
             </div>
             <div class="row">
+            <h2>{{ site.categories }} </h2>
             {% for news in site.categories.news limit:6 %}
                 <div class="col-md-4 col-sm-6 news-item">
                     <a href="{{ news.date }}" class="news-link">
                         <div class="news-hover">
-                            <div class="portfolio-hover-conent">
+                            <div class="news-hover-conent">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
                         <img src="img/portfolio/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
-                <div class="portfolio-caption">
+                <div class="news-caption">
                     <h4>{{ news.title }}</h4>
                     <p class="text-muted">{{ post.subtitle }}</p>
                 </div>
