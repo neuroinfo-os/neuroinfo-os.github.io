@@ -1,11 +1,14 @@
 ---
 title: Random day.
+layout: newspage
 subtitle: as far as i know.
-date: 2018-14-07
+date: 2018-07-14
 author: Pascal Nieters
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 description: This is a very important summary of the descriptions of the event. I'm pretty sure journalists have a name for this.
+category: news
+permalink: /2018-07-14/
 ---
 
 The text goes here because the headline should be in the title somewhere.

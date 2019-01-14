@@ -3,14 +3,17 @@
     {% include head.html %}
 
         <body id="page-top" class="index">
+
+        {% include header_subpage.html %}
             
-        {% include news_header.html %}
+        <div class="container">
+            <div class="row">
+                <div class="modal-body">
+                {{ content }}
+                </div>
+            </div>
+        </div>
 
-        <section>
-        {{ content }}
-        </section>
-
-        {% include news_short.html %}
         {% include footer.html %}
         {% include js.html %}
 

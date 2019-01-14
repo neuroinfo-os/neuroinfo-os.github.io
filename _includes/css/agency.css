@@ -969,3 +969,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+#news-image {
+    display: block;
+    width: 100%;
+}
+
+#news-header {
+    position: absolute;
+    left: 50%;
+    bottom: -10px;
+    transform: translate(-50%);
+    width: 80%;
+}

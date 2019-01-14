@@ -1,14 +1,16 @@
 ---
-title: Wedding day!
-subtitle: hooray ~~
-date: 2018-04-08
+title: Pascal's Birthday
+layout: newspage
+subtitle: happened today.
+date: 2018-05-22
 author: Pascal Nieters
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 description: This is a very important summary of the descriptions of the event. I'm pretty sure journalists have a name for this.
+permalink: /2018-05-22/
 ---
 
 The text goes here because the headline should be in the title somewhere.
 
 ## SUBTITLE
-more text. still going well though.
+more text.

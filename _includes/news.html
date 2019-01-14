@@ -10,10 +10,9 @@
                 </div>
             </div>
             <div class="row">
-            <h2>{{ site.categories }} </h2>
-            {% for news in site.categories.news limit:6 %}
+            {% for news in site.categories.news %}
                 <div class="col-md-4 col-sm-6 news-item">
-                    <a href="{{ news.date }}" class="news-link">
+                    <a href="{{ news.date | date: "%Y-%m-%d" }}" class="news-link">
                         <div class="news-hover">
                             <div class="news-hover-conent">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -21,12 +20,12 @@
                         </div>
                         <img src="img/portfolio/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
+                    <div class="news-caption">
+                        <h4>{{ news.title }}</h4>
+                        <p class="text-muted">{{ post.subtitle }}</p>
+                    </div>
                 </div>
-                <div class="news-caption">
-                    <h4>{{ news.title }}</h4>
-                    <p class="text-muted">{{ post.subtitle }}</p>
-                </div>
-            </div>
             {% endfor %}
+            </div>
         </div>
     </section>
