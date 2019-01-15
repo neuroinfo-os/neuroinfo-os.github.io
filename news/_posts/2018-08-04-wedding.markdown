@@ -7,7 +7,7 @@ author: Pascal Nieters
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 description: This is a very important summary of the descriptions of the event. I'm pretty sure journalists have a name for this.
-permalink: /2018-04-08/
+permalink: /2018-08-04/
 ---
 
 The text goes here because the headline should be in the title somewhere.

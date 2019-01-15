@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/logos/grafik_no_text.gif');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -1053,6 +1053,22 @@ body {
 
 #date-tag {
     padding-left: 5px;
+    font-weight: bold;
+    font-family: {{ site.data.template.font.primary }};
+}
+
+#more-news {
+    display: flex;
+    justify-content: center;
+}
+
+#welcome-address{
+    color: white;
+    background-color: #222;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 2%;
+    font-size: 36px;
     font-weight: bold;
     font-family: {{ site.data.template.font.primary }};
 }
