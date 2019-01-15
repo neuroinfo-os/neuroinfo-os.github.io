@@ -1,0 +1,55 @@
+---
+permalink: /archive/
+---
+
+<!DOCTYPE html>
+
+<html>
+{% include head.html %}
+
+    <body id="page-top" class="index">
+    
+    <section id="news">        
+        <div class="container">
+            <div class="row">
+                <div id="news-abstract">
+                <p>
+                    News and Views Archive
+                </p>
+                </div>
+            </div>
+
+            <div class="container", style="padding-top: 40px">
+                <div class="row">
+                {% for news in site.categories.news %}
+                    <div class="col-md-4 col-sm-6 news-item">
+                        <p id="date-tag">
+                            {{ news.date | date: "%a, %b %d, %Y"}}
+                        </p>
+                        <a href="{{ site.baseurl }}{{ news.permalink }}" class="news-link">
+                            <div class="news-hover">
+                                <div class="news-hover-conent">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="/img/news/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="news-caption">
+                            <h4>{{ news.title }}</h4>
+                            <p class="text-muted">
+                                {{ news.subtitle }}
+                            </p>
+                        </div>
+                    </div>
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+    
+    </section>
+
+    {% include footer.html %}
+    {% include js.html %}
+
+    </body>
+</html>

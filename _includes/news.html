@@ -3,26 +3,29 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">News</h2>
+                    <h2 class="section-heading">News and Views</h2>
                     <h3 class="section-subheading text-muted">
-                        Reports on recent and upcoming events and news.
+                        Opinions, news and events in and around our research hub.
                     </h3>
                 </div>
             </div>
             <div class="row">
-            {% for news in site.categories.news %}
+            {% for news in site.categories.news limit: 6 %}
                 <div class="col-md-4 col-sm-6 news-item">
+                    <p id="date-tag">
+                        {{ news.date | date: "%a, %b %d, %Y"}}
+                    </p>
                     <a href="{{ news.date | date: "%Y-%m-%d" }}" class="news-link">
                         <div class="news-hover">
                             <div class="news-hover-conent">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="img/news/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="news-caption">
                         <h4>{{ news.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <p class="text-muted">{{ news.subtitle }}</p>
                     </div>
                 </div>
             {% endfor %}

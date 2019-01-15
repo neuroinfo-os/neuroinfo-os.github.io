@@ -5,10 +5,18 @@
         <body id="page-top" class="index">
 
         {% include header_subpage.html %}
+
+        <div class="container">
+            <div class="row">
+                <div id="news-abstract">
+                {{ page.description }}
+                </div>
+            </div>
+        </div>
             
         <div class="container">
             <div class="row">
-                <div class="modal-body">
+                <div id="news-body">
                 {{ content }}
                 </div>
             </div>
@@ -16,6 +24,9 @@
 
         {% include footer.html %}
         {% include js.html %}
+
+        <!-- Custom JavaScript -->
+        <script src="{{ "/js/custom_newspage.js" | prepend: site.baseurl }}"></script>
 
         </body>
 </html>

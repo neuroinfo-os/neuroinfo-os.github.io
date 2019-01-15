@@ -1,0 +1,33 @@
+---
+title: Random day.
+layout: newspage
+subtitle: as far as i know.
+date: 2018-07-14
+author: Pascal Nieters
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+description: This is a very important summary of the descriptions of the event. I'm pretty sure journalists have a name for this.
+category: news
+permalink: /2018-07-14/
+---
+
+## Vita
+ ![Small:Kai-Uwe Kuehnberger, director of the institute of Cognitive Science in Osnabrueck](/img/team/kuehnberger.jpg)Since 2009, Prof. Kühnberger is leading the working group Artificial Intelligence at the University of Osnabrück. He finished his parallel studies in Philosophy, German Literature, and Linguistics (Master) and Mathematics and German (state exam) at the Universities of Stuttgart and Tübingen in the year 1996.   A research stay as a visiting scholar at Indiana University, Bloomington followed his Master studies. Between 1999 and 2001 Kai-Uwe Kühnberger was a research associate at the “Seminar für Sprachwissenschaft” of the University of Tübingen. He earned a PhD in Computational Linguistics / General Linguistics in the year 2001. Between 2001 and 2003, he was a research associate for Artificial Intelligence at the University of Osnabrück. Then, Kai-Uwe Kühnberger was assistant professor for Artificial Intelligence at the University of Osnabrück. Since 2009, he is University Professor for Artificial Intelligence at the Institute of Cognitive Science of the University of Osnabrück. He was Dean of the Faculty of Human Science between 2013 and 2015 and is Director of the Institute of Cognitive Science since 2016. 
+
+Kai-Uwe Kühnberger (co-)published more than 120 international scientific articles in different areas of Artificial Intelligence, such as machine learning, knowledge representation, neuro-symbolic integration, or cognitive architectures. He worked additionally as a reviewer for a large number of conferences and journals. He is survey editor of the journal “Cognitive Systems Research” and editor of the book series “Thinking Machines” (Atlantis / Springer). Together with Prof. Gordon Pipa Kai-Uwe Kühnberger is involved in a close cooperation with IBM, which is documented by the financing of PhD students or by several CEBIT exhibitions of the IKW in cooperation with IBM: „Flu Prediction“ (2016), „Smart Farming“ (2017), „Pepper and Watson in universities“ (2018) were such joint projects. In 2016, Kai-Uwe Kühnberger was awarded the IBM Faculty Award and in 2009, he was a SICSA Fellow (Scottish Informatics and Computer Science Alliance). Kai-Uwe Kühnberger is spokesperson of the profile area „Cognition: Human-Technology-Interaction”.
+![big: Kai-Uwe Kühnberger](/img/team/kuehnberger.jpg)
+
+#### Research focus
+Concept Invention, learning of abstract concepts from data, transfer learning, computational creativity, concept blending, knowledge representation, applications of AI technologies in industry contexts. 
+
+#### Relevant projects
+Since many year Kai-Uwe Kühnberger is working in cooperation with the industry in the area of cognitive technologies for assistant systems, like smart heating systems (Elster Kromschröder, now Honeywell Kromschröder),e-learning tutors (IBM), or support systems for musicians and mathematicians (COINVENT: Concept Invention Theory, Projekt-ID: 611553, FP7-ICT-2013-10). The recently approved DFG-funded research training network „Computational Cognition“, in which Kai-Uwe Kühnberger is a co-PI, is focusing from a basic research perspective on the reciprocal interaction, integration, and modeling of sensory information and conceptual knowledge.  A deeper understanding and the bridging of these two levels are constitutive for acceptance, standardization, and trustfulness in autonomous systems in the automobile sector. Kai-Uwe Kühnberger is member of the consortium for the formulation of DIN SPEC 92001 „Artificial Intelligence“ of the „Deutsches Institut für Normung (DIN)“, in which standardization and requirement profiles for products that are based on artificial intelligence are developed.
+
+![Kai-Uwe Kühnberger](/img/team/kuehnberger.jpg)
+
+## Five important publications of the last three years
+1. Eppe, M., Maclean, E., Confalonieri, R., Kutz, O., Schorlemmer, M., Plaza, E., Kühnberger, K.-U. (2018): A Computational Framework for Conceptual Blending. Artif. Intell. 256:105-129.
+1. Besold, T., Kühnberger, K.-U. & Plaza, E. (2017): Towards a Computational- and Algorithmic-Level Account of Concept Blending Using Analogies and Amalgams. Connection Science 29(4), (DOI: https://doi.org/10.1080/09540091.2017.1326463).
+1. Martinez, M., Abdel-Fattah, A., Krumnack, U., Gómez-Ramírez, D., Smaill, A., Besold, T., Pease, A., Schmidt, M., Guhe, M., Kühnberger, K.-U. (2017): Theory Blending: Extended Algorithmic Aspects and Examples, Annals of Mathematics and Artificial Intelligence 80:65-89, DOI 10.1007/s10472-016-9505-y.
+1. Potyka, N., Gómez-Ramírez, D., Kühnberger, K.-U. (2016): Towards a Computational Framework for Function-Driven Concept Invention, AGI 2016:212-222. 
+1. Besold, T. & Kühnberger, K.-U. (2015): Towards Integrated Neural-Symbolic Systems for Human-Level AI: Two Research Programs Helping to Bridge the Gaps, Biologically Inspired Cognitive Architectures 14:97-110.
