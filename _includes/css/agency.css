@@ -207,13 +207,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
+    /* font-weight: 400; */
+    font-weight: bold;
     letter-spacing: 1px;
     color: #fff;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
+    font-family: {{ site.data.template.font.primary }};
 }
 
 .navbar-default .nav li a:hover,
@@ -1062,13 +1063,27 @@ body {
     justify-content: center;
 }
 
-#welcome-address{
+#welcome-title {
     color: white;
-    background-color: #222;
     text-transform: uppercase;
     text-align: center;
     padding: 2%;
-    font-size: 36px;
+    font-size: 26px;
     font-weight: bold;
     font-family: {{ site.data.template.font.primary }};
+}
+
+#welcome-text {
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 80px;
+    color: #777;
+    font-family: {{ site.data.template.font.primary }};
+}
+
+#research-buttons {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
 }
