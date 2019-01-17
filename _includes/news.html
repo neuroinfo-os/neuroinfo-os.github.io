@@ -15,13 +15,13 @@
                     <p id="date-tag">
                         {{ news.date | date: "%a, %b %d, %Y"}}
                     </p>
-                    <a href="{{ news.date | date: "%Y-%m-%d" }}" class="news-link">
+                    <a href="{{site.baseurl}}/{{ news.date | date: "%Y-%m-%d" }}" class="news-link">
                         <div class="news-hover">
                             <div class="news-hover-conent">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/news/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="{{src.basurl}}/img/news/{{ news.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="news-caption">
                         <h4>{{ news.title }}</h4>

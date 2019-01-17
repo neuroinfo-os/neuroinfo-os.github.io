@@ -11,7 +11,7 @@ permalink: /archive/
 
     {% include header.html %}
 
-    <div style="background-color: #222">
+    <div style="background-color: #ac0634">
         <div class="container">
             <div class="row">
                 <div id="welcome-title">
@@ -21,7 +21,8 @@ permalink: /archive/
         </div>
     </div>
     
-        <div class="container bg-light-gray" id="news" style="padding-top: 40px; padding-bottom: 80px;">
+    <section class="bg-light-gray" style="padding: 40px 0 80px 0">
+        <div class="container" id="news">
             <div class="row">
             {% for news in site.categories.news %}
                 <div class="col-md-4 col-sm-6 news-item">
@@ -46,6 +47,7 @@ permalink: /archive/
             {% endfor %}
             </div>
         </div>
+    </section>
 
     {% include footer.html %}
     {% include js.html %}
