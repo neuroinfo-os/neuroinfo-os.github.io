@@ -6,21 +6,23 @@
 
         {% include header_subpage.html %}
 
-        <div class="container">
-            <div class="row">
-                <div id="news-abstract">
+        <div class="container" id="news-abstract">
+            <div class="row" style="padding: 0 2%">
+                <div>
                 {{ page.description }}
                 </div>
             </div>
         </div>
             
-        <div class="container">
-            <div class="row">
-                <div id="news-body">
-                {{ content }}
+        <section class="bg-light" id="news-article">
+            <div class="container">
+                <div class="row">
+                    <div id="news-body">
+                    {{ content }}
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
 
         {% include footer.html %}
         {% include js.html %}

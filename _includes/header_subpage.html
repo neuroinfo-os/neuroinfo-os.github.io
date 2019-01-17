@@ -1,5 +1,5 @@
 <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top navbar-shrink">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -35,13 +35,23 @@
     </nav>
 
 <!-- Header -->
-    <header style="background-image: none">
+    <header id="navbar-header" style="background-image: none">
         <div class='container' style="padding: 0; position: relative">
             <img src="{{ site.baseurl }}/img/news/{{ page.img }}" id='news-image'>
-            <div id="news-header">
+            <!-- <div id="news-header">
                 <div class="intro-text" style="padding: 0 0 0 0px; text-align: left;">
                 <div class="intro-heading" style="text-shadow: 3px 3px black;">{{ page.title }}</div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </header>
+
+    <div style="background-color: #ac0634">
+        <div class="container">
+            <div class="row">
+                <div id="welcome-title">
+                    {{ page.title }}
+                </div>
+            </div>
+        </div>
+    </div>

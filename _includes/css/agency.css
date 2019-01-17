@@ -62,7 +62,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #cfd0d1;
 }
 
 .bg-darkest-gray {
@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #ac0634;
 }
 
 .navbar-default .navbar-brand {
@@ -235,6 +235,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+#navbar-header {
+    padding-top: 60px
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -258,11 +262,15 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #ac0634;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+
+    #navbar-header {
+        padding-top: 80px
     }
 }
 
@@ -387,7 +395,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(251,185,0,.9); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
@@ -477,7 +485,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(251,185,0,.9); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
@@ -761,7 +769,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #cfd0d1;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -858,7 +866,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #ac0634;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -933,7 +941,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #ac0634;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -943,7 +951,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #ac0634;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -971,6 +979,10 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
+#news-article {
+    padding: 20px 0 20px 0;
+}
+
 #news-image {
     display: block;
     width: 100%;
@@ -985,7 +997,6 @@ body {
 }
 
 #news-body {
-    background-color: #f7f7f7;
     padding: 2%;
     font-family: {{ site.data.template.font.primary }};
 }
@@ -1043,8 +1054,8 @@ body {
 }
 
 #news-abstract {
-    color: white;
-    background-color: #222;
+    color: black;
+    /* background-color: #f7f7f7; */
     text-transform: uppercase;
     padding: 2%;
     font-size: 22px;
