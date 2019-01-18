@@ -1,9 +1,13 @@
 url: https://neuroinfo-os.github.io
 
 # Site settings
-title: Cognition @ UOS
+title: Cognition Research Hub UOS
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The Cognition research hub at University Osnabrück is an initiative
+to focus research efforts across Cognitive Science, Computer Science, Biology
+Linguistics and Psychology towards research into what the distinguishing 
+attributes that have led to the phenomenom of human cognition are."
+# TODO: The description needs updates!
 
 
 
