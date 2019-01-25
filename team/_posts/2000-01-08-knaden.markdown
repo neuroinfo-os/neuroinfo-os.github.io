@@ -1,6 +1,6 @@
 ---
 name: Dr. Andreas Knaden
-modal-id: Pipa
+modal-id: Knaden
 department: virtUOS
 img: knaden
 thumbnail: knaden-thumbnail

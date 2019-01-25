@@ -1098,3 +1098,12 @@ body {
     justify-content: center;
     padding-bottom: 80px;
 }
+
+#vidwrap {
+    float: none;
+    clear: both;
+    width: 700px;
+    position:relative;
+    margin: 0 auto;
+    max-width:100%
+}

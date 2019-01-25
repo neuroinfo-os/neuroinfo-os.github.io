@@ -1,0 +1,20 @@
+---
+title: Ergonomic workstations coming from the cyberspace
+layout: newspage
+subtitle: 
+date: 2018-10-11
+author: 
+img: ergo.png
+thumbnail: ergo.png
+description: Scientists at the Institute of Cognitive Science plan to develop a novel eye-tracking technology to simulate complex motion sequences in virtual
+             environments.
+permalink: /2018-10-11/
+---
+
+The Institute of Cognitive Science from the Osnabrück University, as part of a joint research project, will support the designing process of ergonomically optimized workstations by using virtual reality (VR). Under the supervision of Prof. Dr. Peter König, the scientists of the Institute in Osnabrück University plan to develop a novel eye-tracking technology to simulate complex motion sequences in virtual environments.
+
+This project is funded by the German Federal Ministry for Education and Research and will be carried out in close cooperation with SALT & PEPPER, a technology and consultancy company from Osnabrück, that has been performing ergonomic tests for working places for a long time already. One core competence of the company is „Embodied Engineering“ – that is the design of assembly stations and the simulation of work processes in virtual reality.
+
+SALT & PEPPER plans to develop a software that combines the design of assembly stations and their testing on ergonomics in VR. This is supposed to work as follows: The working space model is supposed to be tested by somebody wearing a VR-headset - performing movements equivalent to a working person in a real working environment. The movements, their duration, and frequency will be tracked by sensors and analyzed by a software to calculate the physiological effects on the body of the test person. Moreover, the software shall calculate the risk of long-term health effects. There is one catch: the currently available sensors do not have sufficient precision to map the motion sequences in a sufficient quality.
+
+This is where the study-project comes: the scientists of the Osnabrück University plan to track the eye-movements of the test person in order to predict the next movement. If somebody is reaching for a hammer and looking at the shaft first – it usually means that this person is intending to take the tool in order to carry it to somewhere else. If, however, somebody is looking at the hammerhead while reaching to the tool – it is likely that this person is planning to use the hammer. This Eye-tracking-technology developed by the Osnabrück University might help to achieve the required precision that is needed to analyze on ergonomics in a virtual reality environment.

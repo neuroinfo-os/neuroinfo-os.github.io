@@ -1,0 +1,21 @@
+---
+title: "New in Osnabrück: Prof. Dr. Simone Pika"
+layout: newspage
+subtitle: 
+date: 2019-01-01
+author: 
+img: pika.png
+thumbnail: pika.png
+description: The Institute of Cognitive Science is happy to welcome Dr. Simone Pika as professor for comparative biocognition.
+permalink: /2019-01-01/
+---
+
+Dr. Simone Pika is joining the Institute of Cognitive Science starting January 1st 2019 as professor for
+comparative biocognition. The renowned behavioral biologist researches the emergence and development of
+communication with particular attention to gesturing. The focus of the comparative research are infants,
+primates and ravens.
+
+<!-- Born in 1972, Simone Pika has studied biology at the institute for neuro- and behavioral biology at
+Münster University and graduated with distinction in 1999. In 2003, she was awarded her doctorate's degree
+from Münster University and Max-Planck-Institute for Evolutionary Anthropology for her work on non-verbal
+communication of gorillas and bonobos. -->

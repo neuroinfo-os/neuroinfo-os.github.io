@@ -1,8 +1,15 @@
 url: https://neuroinfo-os.github.io
+social:
+  - title: home
+    url: https://www.ikw.uni-osnabrueck.de/en/home.html
+  - title: twitter
+    url: https://twitter.com/uniosnabrueck?lang=en
+  - title: facebook
+    url: https://www.facebook.com/CognitiveScienceOsnabruck/
 
 # Site settings
 title: Cognition Research Hub UOS
-email: your-email@domain.com
+email: pnieters@uni-osnabrueck.de
 description: "The Cognition research hub at University Osnabrück is an initiative
 to focus research efforts across Cognitive Science, Computer Science, Biology
 Linguistics and Psychology towards research into what the distinguishing 

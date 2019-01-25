@@ -1,0 +1,26 @@
+---
+title: RTG Computational Cognition
+layout: newspage
+subtitle: 
+date: 2018-05-07
+author: Pascal Nieters
+img: compcog.png
+thumbnail: compcog.png
+description: Understanding human and machine intelligence is the focus questions of the new research training group supported with 3.1M euros by DFG.
+permalink: /2018-05-07/
+---
+
+We are happy to report that the Deutsche Forschungsgemeinschaft DFG will fund the research training group (RTG) **Computational Cognition**. As decided on the DFG's
+spring comissiong, University Osnabrück will receive 3.1M Euros in funding over 4.5 half years to invest into young academics and junior scientists.
+
+The RTG **Computational Cognition** aims to imporve our understanding of intelligence in both humans and machines. The problem of connecting lower and higher 
+levels of cognitive processes will take center stage: *The problems most interesting to us are those that are easy for humans to solve but are still considered hard
+for artificial systems. Among others, this includes analogies, introduction of new concepts and pragmatic reasoning*, says RTG speaker Prof. Dr. Gordon Pipa. The group
+of young researchers will bring together the fields of cognitive science and artificial intelligence.
+
+*The research training group Computational Cognition further consolidates the research focus of the institute of cognitive science and our research hub Cognition in
+a highly innovative field of research*, according to Prof. Dr. Susanne Menzel, vice president for research and junior development programs. *Congratulations to Prof.
+Dr. Pipa and Prof. Dr. Peter König. We are pleased that the project will in particular support the education of young researchers.*
+
+Research training groups afford graduate students the opportunity of writing a doctoral thesis supported by a structured research and qualification program. Up
+to nine young scientists will be able to secure financial support working in the group. Positions will open soon.

@@ -1,7 +1,7 @@
 ---
 name: Prof. Dr. Angela Grimm
 modal-id: Grimm
-department: Psycholinguistik Goethe Universität Frankfurt
+department: Psycholinguistics - Goethe Universität Frankfurt
 img: grimm
 thumbnail: grimm-thumbnail
 social:
