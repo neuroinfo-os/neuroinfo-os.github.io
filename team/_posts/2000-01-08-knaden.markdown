@@ -1,0 +1,19 @@
+---
+name: Dr. Andreas Knaden
+modal-id: Pipa
+department: virtUOS
+img: knaden
+thumbnail: knaden-thumbnail
+social:
+    - title: home
+      url: https://www.virtuos.uni-osnabrueck.de/
+---
+
+Dr Andreas Knaden is the managing director of the Osnabrück University Center for
+Digital Teaching, Information Management and Higher Education Didactics (virtUOS),
+coordinator of the Lower Saxony e-CULT project network, deputy director of the Lower
+Saxony E-Learning Academic Network (ELAN) e.V. and speaker of the Osnabrück
+University CIO board.
+As managing director of the virtUOS, he oversees the development of e-learning tools
+for innovative teaching and learning scenarios as well as the scientific research in
+various fields, such as educational data-mining, where he focusses on legal issues.

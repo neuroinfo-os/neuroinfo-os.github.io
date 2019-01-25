@@ -1,0 +1,18 @@
+---
+name: Prof. Dr. Jutta Müller
+modal-id: Mueller
+department: Psycho- and Neurolinguistics
+img: mueller
+thumbnail: mueller-thumbnail
+social:
+    - title: home
+      url: https://www.ikw.uni-osnabrueck.de/en/forschung/psycho_and_neurolinguistics.html
+---
+
+Jutta L. Mueller is a trained psychologist (Diploma in Psychology, University of Trier) and specialized
+during her PhD and Post-doc (MPI for Human Cognitive and Brain Science, Leipzig) in the field of the
+cognitive neuroscience of language learning and processing. Her main research interests are concentrated
+on language and memory across ontogenetic and phylogenetic development. Currently she is heading the
+"Kindersprachlabor Osnabrück" at the Institute of Cognitive Science which is focused on the investigation
+of the development of language and cognition across the lifespan. The methods she uses include EEG,
+eye-tracking, fMRI, tDCS, NIRS and behavioural methods.

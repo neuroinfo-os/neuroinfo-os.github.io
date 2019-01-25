@@ -1,0 +1,14 @@
+---
+name: Prof. Dr. Gordon Pipa
+modal-id: Pipa
+department: Neuroinformatics
+img: pipa
+thumbnail: pipa-thumbnail
+social:
+    - title: twitter
+      url: https://twitter.com/pipagordon
+    - title: home
+      url: https://www.ikw.uni-osnabrueck.de/en/research_groups/neuroinformatics/overview.html
+---
+
+Gordon Pipa became Full professor (W3) and chair of the Neuroinformatics department at Institute of Cognitive Science at the University of Osnabrueck in Germany at the age of 36. Before he had hold a Group leader postion in Prof. Wolf Singer Department of Neurophysiology, Max Planck Institute for Brain Research, Frankfurt am Main, Germany and a Junior fellow position at the Frankfurt Institute for Advanced Studies (FIAS), Frankfurt am Main, Germany. Between 2007 and 2009 he was a Research fellow with Prof. Emery Brown with an joint appointment at the Dep. of Brain and Cognitive Sciences at the MIT, Cambridge, and the Dep. of Anesthesia and Critical Care at Massachusetts General Hospital, Boston. 

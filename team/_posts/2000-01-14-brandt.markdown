@@ -1,0 +1,12 @@
+---
+name: Prof. Dr. Roland Brandt
+modal-id: Brandt
+department: Neurobiology
+img: brandt
+thumbnail: brandt-thumbnail
+social:
+    - title: home
+      url: http://neurobiologie.uni-osnabrueck.de
+---
+
+Neurons are one of the most extreme cell types in that they contain processes which can reach a meter or longer, contain more than 99% of the cellular volume, and provide the basis for innumerable synaptic input (Fig. 1). This requires the presence of a sophisticated molecular machinery in order to establish and maintain such a morphology. The cytoskeleton is the major intraneuronal structure that determines the shape of a neuron. From that it is not surprising that cytoskeletal mechanisms have an important role during the development of neurons and that abnormalities in the cytoskeletal organization are a hallmark of many neurodegenerative diseases. The group concentrates on the function of microtubules and their associated proteins, on neurofilaments and on the membrane cortex during neuronal development and neurodegeneration. In particular, a major part of the group concentrates on studying the involvement of the neuronal microtubule-associated protein tau during neurodegenerative processes in Alzheimer's disease and other tauopathies. 

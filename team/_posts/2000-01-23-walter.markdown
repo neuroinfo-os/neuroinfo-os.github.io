@@ -1,0 +1,14 @@
+---
+name: Prof. Dr. Sven Walter
+modal-id: Walter
+department: Philosophy of Mind
+img: walter
+thumbnail: walter-thumbnail
+social:
+    - title: home
+      url: http://www.svenwalter.eu
+---
+
+Since 2007, I have first been assistant, then associate, and then full professor for philosophy of mind at
+the Institute of Cognitive Science. My research areas include embodied and situated approaches to
+cognition, in particular to self control, and the philosophy of free will.

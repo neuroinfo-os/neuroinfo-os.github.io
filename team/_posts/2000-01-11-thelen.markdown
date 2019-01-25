@@ -1,0 +1,23 @@
+---
+name: Dr. Tobias Thelen
+modal-id: Thelen
+department: Neuroinformatics
+img: thelen
+thumbnail: thelen-thumbnail
+social:
+    - title: home
+      url: https://www.virtuos.uni-osnabrueck.de/
+---
+
+Tobias Thelen studied Computational Linguistics and Artificial
+Intelligence at Osnabrück University from 1992-1998. Since then, he
+works in the field of adaptive e-learning systems. Thelen is founding
+member and currently deputy managing director of the Center for Digital
+Teaching, Campus Management and Higher Education Didactics (virtUOS).
+virtUOS conducts research projects and provides development and
+operating services for several universities and other educational
+institutions since 2001. Besides practically oriented development of
+learning management systems and other e-learning tools, Thelen's
+research focusses on adaptive computer-assisted language learning
+systems (disseration project, 2009) and teaches at the Institutes for
+Computer Science and Cognitive Science.

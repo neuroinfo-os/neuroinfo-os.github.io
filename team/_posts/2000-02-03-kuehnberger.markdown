@@ -1,0 +1,13 @@
+---
+name: Prof. Dr. Kai-Uwe Kühnberger
+modal-id: Kuehnberger
+department: Artificial Intelligence
+img: kuehnberger
+thumbnail: kuehnberger-thumbnail
+social:
+    - title: home
+      url: https://www.ikw.uni-osnabrueck.de/en/research_groups/artificial_intelligence/people/kai_uwe_kuehnberger.html
+---
+
+ Since 2009, Prof. Kühnberger is leading the working group Artificial Intelligence at the University of Osnabrück. He finished his parallel studies in Philosophy, German Literature, and Linguistics (Master) and Mathematics and German (state exam) at the Universities of Stuttgart and Tübingen in the year 1996.   A research stay as a visiting scholar at Indiana University, Bloomington followed his Master studies. Between 1999 and 2001 Kai-Uwe Kühnberger was a research associate at the “Seminar für Sprachwissenschaft” of the University of Tübingen. He earned a PhD in Computational Linguistics / General Linguistics in the year 2001. Between 2001 and 2003, he was a research associate for Artificial Intelligence at the University of Osnabrück. Then, Kai-Uwe Kühnberger was assistant professor for Artificial Intelligence at the University of Osnabrück. Since 2009, he is University Professor for Artificial Intelligence at the Institute of Cognitive Science of the University of Osnabrück. He was Dean of the Faculty of Human Science between 2013 and 2015 and is Director of the Institute of Cognitive Science since 2016. 
+Kai-Uwe Kühnberger (co-)published more than 120 international scientific articles in different areas of Artificial Intelligence, such as machine learning, knowledge representation, neuro-symbolic integration, or cognitive architectures. He worked additionally as a reviewer for a large number of conferences and journals. He is survey editor of the journal “Cognitive Systems Research” and editor of the book series “Thinking Machines” (Atlantis / Springer). Together with Prof. Gordon Pipa Kai-Uwe Kühnberger is involved in a close cooperation with IBM, which is documented by the financing of PhD students or by several CEBIT exhibitions of the IKW in cooperation with IBM: „Flu Prediction“ (2016), „Smart Farming“ (2017), „Pepper and Watson in universities“ (2018) were such joint projects. In 2016, Kai-Uwe Kühnberger was awarded the IBM Faculty Award and in 2009, he was a SICSA Fellow (Scottish Informatics and Computer Science Alliance). Kai-Uwe Kühnberger is spokesperson of the profile area „Cognition: Human-Technology-Interaction”.

@@ -1,0 +1,14 @@
+---
+name: Prof. Dr. Alexander Bergs
+modal-id: Bergs
+department: English Language and Linguistics
+img: bergs
+thumbnail: bergs-thumbnail
+social:
+    - title: twitter
+      url: https://twitter.com/BergsAlexander
+    - title: home
+      url: https://www.alexanderbergs.de/
+---
+
+Alexander Bergs joined the Institute for English and American Studies of the University of Osnabrück, Germany, in 2006 when he became Full Professor and Chair of English Language and Linguistics. His research interests include, among others, language variation and change, constructional approaches to language, the role of context in language, the syntax/pragmatics interface and cognitive poetics. His works include several authored and edited books (Social Networks and Historical Sociolinguistics, Modern Scots, Contexts and Constructions, Constructions and Language Change), a short textbook on Synchronic English Linguistics, one on Understanding Language Change (with Kate Burridge) and the two-volume Handbook of English Historical Linguistics (ed. with Laurel Brinton; now available as 5 volume paperback) as well as more than fifty papers in high profile international journals and edited volumes.

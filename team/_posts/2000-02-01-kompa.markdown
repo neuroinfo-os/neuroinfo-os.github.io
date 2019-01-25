@@ -1,0 +1,12 @@
+---
+name: Prof. Dr. Nikola Kompa
+modal-id: Kompa
+department: Theoretical Philosophy
+img: kompa
+thumbnail: kompa-thumbnail
+social:
+    - title: home
+      url: https://www.philosophie.uni-osnabrueck.de/wer_wir_sind_und_woran_wir_arbeiten/personen/prof_dr_phil_nikola_kompa.html
+---
+
+I am currently holding a professorship of Theoretical Philosophy (W3; since 2011). I work on a variety of topics within the field of theoretical philosophy, with a clear focus on issues pertaining to epistemic evaluation  on the one hand and language & cognition on the other.

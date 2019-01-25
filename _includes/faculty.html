@@ -7,21 +7,25 @@
                     <h3 class="section-subheading text-muted">Our interdisciplinary team of researcher.</h3>
                 </div>
             </div>
-            <div class="row">
+            <div class="row row-equal-height">
             {% for member in site.categories.team %}
-                <div class="col-md-4 col-sm-4 faculty-item">
+            {% assign remainder = forloop.index | modulo: 3 %}
+                <div class="col-md-4 faculty-item">
                     <a href="#faculty_{{ member.modal-id }}" class="faculty-link" data-toggle="modal">
                         <div class="faculty-hover">
                             <div class="faculty-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/team/{{ member.thumbnail }}.jpg" class="img-responsive img-circle" alt="">
+                        <img src="img/team/{{ member.thumbnail }}.jpg" class="img-responsive img-circle" alt="" style="width: 200px">
                     </a>
                     <h4>{{ member.name }}</h4>
                     <p class="text-muted">{{ member.department }}</p>
                 </div>
-                {% endfor %}
+            {% if remainder == 0 %}
+                <div class="clearfix"></div>
+            {% endif %}
+            {% endfor %}
             </div>
         </div>
     </section>

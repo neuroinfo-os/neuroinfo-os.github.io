@@ -1,0 +1,21 @@
+---
+name: Prof. Dr. Chadi Touma
+modal-id: Touma
+department: Behavioural Biology
+img: touma
+thumbnail: touma-thumbnail
+social:
+    - title: home
+      url: https://www.biologie.uni-osnabrueck.de/en/arbeitsgruppen/verhaltensbiologie.html
+---
+
+The focus  of professor  Touma’s research  group is  to generate  and characterise clinically relevant  animal  models  of  inborn  (trait) 
+emotionality and stress  reactivity  in  order  to elucidate   neurobiological,   endocrine   and   molecular 
+genetic   mechanisms   underlying affective  disorders such  as  major  depression.  It  is  only  with  deep  insight  into  these 
+mechanisms   that   novel   treatment   strategies   and   promising   targets   for   therapeutic interventions can be devel
+oped in the future. The  spectrum  of  our research includes  projects at  the  genetic,  proteomic  and  systemic 
+level. We apply a variety of behavioural tests assessing emotionality, coping and cognitive functions  along  with 
+neuroendocrine  approaches  to  analyse neuropeptides and  proteins involved  in the activity  and  regulation  of  the 
+hypothalamic-pituitary-adrenocortical  (HPA) axis.   Furthermore, we   use paradigms addressing   the interaction   between   genetic 
+predispositions    and    environmental    influences,    shedding    light    on    the    epigenetic 
+modification of behavioural traits and neurobiological endophenotypes. 

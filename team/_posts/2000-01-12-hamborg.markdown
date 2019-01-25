@@ -1,0 +1,10 @@
+---
+name: Prof. Dr. Kai-Christoph Hamborg
+modal-id: Hamborg
+department: Work and Organizational Psychology
+img: hamborg
+thumbnail: hamborg-thumbnail
+social:
+    - title: home
+      url: https://www.psycho.uni-osnabrueck.de/en/subfields/work_and_organizational_psychology.html
+---

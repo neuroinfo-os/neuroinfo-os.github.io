@@ -1,0 +1,24 @@
+---
+name: Prof. Dr. Peter König
+modal-id: Koenig
+department: Neurobiopsychology
+img: koenig
+thumbnail: koenig-thumbnail
+social:
+    - title: twitter
+      url: https://twitter.com/konigpeter
+    - title: home
+      url: https://portal.ikw.uni-osnabrueck.de/~NBP/PeterKoenig.html
+---
+
+Peter König has an education in Physics (diploma) and in Medicine (approbation & doctorate). He has
+worked for many years with Wolf Singer at the Max-Planck Institute in Frankfurt, Gerald Edelman at the
+Neurosciences Institute in San Diego, and Kevan Martin / Rodney Douglas at the Institute of
+Neuroinformatics ETH/University Zürich. Finally, his research took him to the University of Osnabrück,
+where he is holding a chair in Neurobiopsychology at the Institute of Cognitive Science. His research
+focuses on embodied cognition and the neurophysiological basis of cognitive functions. This includes
+specifically multimodal integration and sensorimotor interactions. His more than 200 publications
+gathered more than 22.000 citations leading to an h-index of 58. Peter König is guest lecturer at the
+University of Hamburg and corresponding member of the „Akademie der Wissenschaften in Hamburg“.
+His research activities have bridged science and business by triggering three start-up companies:
+„WhiteMatter Labs GmbH“, „feelSpace GmbH and “Scicovery GmbH“.

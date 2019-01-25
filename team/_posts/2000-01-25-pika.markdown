@@ -1,0 +1,23 @@
+---
+name: Prof. Dr. Simone Pika
+modal-id: Pika
+department: Comparative BioCognition
+img: pika
+thumbnail: pika-thumbnail
+social:
+    - title: home
+      url: https://www.ikw.uni-osnabrueck.de/en/research_groups/comparative_biocognition.html
+---
+
+Simone Pika just moved to the University of Osnabrück in Germany to start her own research group on
+Comparative Biocognition at the Institute of Cognitive Science. Simone's research centers on the puzzle
+of language origins by using the comparative approach with a special focus on communication,
+development and underlying cognitive mechanisms. She studies different model systems involving pre-
+linguistic human children living in different cultures, non-human primates and corvids. In 2010, Simone
+received a Sofja Kovalevkaja Award of the Humboldt Foundation to tackle 'gestural compexity across
+species and taxa' and in 2017 an ERC-Consolidator Grant to study 'The evolution and development of
+turn-taking’. She held group leader positions, assistant professor positions or research positions at the
+Max Planck Institute for Evolutionary Anthropology in Leipzig, the Max Planck Institute for the Science
+of Human History in Jena, the Max Planck Institute for Ornithology in Seewiesen Germany, the
+University of Manchester in Manchester UK, the University of St. Andrews in St. Andrews, Scotland, and
+the University of Alberta in Edmonton, Canada.

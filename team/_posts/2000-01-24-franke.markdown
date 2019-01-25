@@ -1,0 +1,13 @@
+---
+name: Prof. Dr. Michael Franke
+modal-id: Franke
+department: Cognitive Modelling 
+img: franke
+thumbnail: franke-thumbnail
+social:
+    - title: home
+      url: https://www.ikw.uni-osnabrueck.de/en/research_groups/cognitive_modeling/home.html
+---
+
+Michael Franke obtained a PhD on applications of game theory to linguistics from the University of Amsterdam in 2009. He has been a 
+PostDoc and a Junior Research Group Leader at the University of Tübingen, as well as a project leader at the Institute for Logic, Language and Computation in Amsterdam. Since 2018 he is professor for cognitive modeling at the Institute of Cognitive Science at the University of Osnabrück. His research focuses on modeling of higher cognitive processes, in particular decision making, language use and language evolution.

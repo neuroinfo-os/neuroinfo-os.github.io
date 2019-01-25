@@ -1,0 +1,22 @@
+---
+name: Prof. Dr. Thomas Gruber
+modal-id: Gruber
+department: General Psychology I
+img: gruber
+thumbnail: gruber-thumbnail
+social:
+    - title: home
+      url: https://www.psycho.uni-osnabrueck.de/institut/mitarbeiterverzeichnis.html?module=TemplatePersondetails&target=14827&source=14827&range_id=9ae3b681c2e2b51c20fd3b31756a5dd4&username=thgruber
+---
+
+Thomas Gruber is a trained computer scientist and psychologist. He is an expert in EEG research and
+focuses on the problem how the brain orchestrates its cortically widely spaced activity in order to
+create unified percepts. In a series of studies, he examined the pivotal role of synchronized neuronal
+activity as a solution to this problem during object- and scene-perception (Hassler et al. 2011,
+Oppermann et al.,2012, Martens et al., 2011), mnemonic functioning (Daume et al., 2017, Friese et
+al, 2013) and -in cooperation with Jutta Müller- language processing (Bonhage et al., 2017). Recently,
+the so accumulated expertise is applied within virtual reality settings in order to increase the limited
+ecological validity of conventional laboratory experiments (Schöne et al., in press).
+He has supervised study projects in cooperation with Nikola Kompa (experimental philosophy, 2012)
+and Jutta Müller (development of auditory rule learning, 2013-2015 and artificial grammar learning,
+since 2018).
