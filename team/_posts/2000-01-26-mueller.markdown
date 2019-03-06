@@ -1,5 +1,5 @@
 ---
-name: Prof. Dr. Jutta Müller
+name: Prof. Dr. Jutta Mueller
 modal-id: Mueller
 department: Psycho- and Neurolinguistics
 img: mueller
