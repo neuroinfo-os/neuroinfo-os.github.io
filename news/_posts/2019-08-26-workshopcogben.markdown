@@ -6,8 +6,7 @@ date: 2019-08-26
 author: 
 img: ergo.png
 thumbnail: ergo.png
-description: The workshop "The cognitive benefits of language - an evolutionary perspective" takes 
-             place on the 21st and 22nd of October 2019
+description: The workshop "The cognitive benefits of language - an evolutionary perspective" takes place on the 21st and 22nd of October 2019
 permalink: /2019-08-26/
 ---
 What good is language? What did our ancestors gain by evolving into language-apt creatures? What can we cognitively achieve 
