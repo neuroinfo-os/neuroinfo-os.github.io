@@ -2,12 +2,12 @@
 title: Workshop: The Cognitive Benefits of Language
 layout: newspage
 subtitle: 
-date: 2019-08-26
+date: 2019-09-02
 author: 
 img: ergo.png
 thumbnail: ergo.png
 description: The workshop "The cognitive benefits of language - an evolutionary perspective" takes place on the 21st and 22nd of October 2019
-permalink: /2019-08-26/
+permalink: /2019-09-02/
 ---
 What good is language? What did our ancestors gain by evolving into language-apt creatures? What can we cognitively achieve 
 because we master language, and what would be impossible if we had not evolved language?
