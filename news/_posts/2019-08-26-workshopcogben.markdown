@@ -1,5 +1,5 @@
 ---
-title: Workshop: The Cognitive Benefits of Language
+title: The Cognitive Benefits of Language
 layout: newspage
 subtitle: 
 date: 2019-09-02
