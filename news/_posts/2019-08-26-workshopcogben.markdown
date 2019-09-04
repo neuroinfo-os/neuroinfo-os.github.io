@@ -4,8 +4,8 @@ layout: newspage
 subtitle: 
 date: 2019-09-02
 author: 
-img: ergo.png
-thumbnail: ergo.png
+img: workshop.png
+thumbnail: workshop_thumbnail.png
 description: The workshop "The cognitive benefits of language - an evolutionary perspective" takes place on the 21st and 22nd of October 2019
 permalink: /2019-09-02/
 ---
